@@ -1,6 +1,6 @@
 Main Goals for Project:
   -Complete Exercise 3: Not Started [] In Progress [x] Finished []
-    -Actuall working on: Task 5.
+    -Actuall working on: Task 6 & 7.
     
   -Completing the first requirements: Not Started [] In Progress [] Finished [x]
     
