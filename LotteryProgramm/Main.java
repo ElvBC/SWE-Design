@@ -21,7 +21,7 @@ public class Main {
 			break; 
 			
 			case 1:
-            break;
+        		break;
 			
 			case 2:
 			break;
