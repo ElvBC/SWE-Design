@@ -1,0 +1,3 @@
+Main Goals for Project:
+  -Complete Exercise 3:Not Started [] In Progress [x] Finished []
+    -Actuall working on: Task 5.
