@@ -1,3 +1,6 @@
 Main Goals for Project:
-  -Complete Exercise 3:Not Started [] In Progress [x] Finished []
+  -Complete Exercise 3: Not Started [] In Progress [x] Finished []
     -Actuall working on: Task 5.
+  -Completing the first requirements: Not Started [] In Progress [x] Finished []
+    -Actuall working on: Creating an Docuentation Structure.
+  -Making the first Concept:Not Started [x] In Progress [] Finished []
