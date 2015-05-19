@@ -2,7 +2,9 @@ Main Goals for Project:
   -Complete Exercise 3: Not Started [] In Progress [x] Finished []
     -Actuall working on: Task 5.
     
-  -Completing the first requirements: Not Started [] In Progress [x] Finished []
-    -Actuall working on: Creating an Docuentation Structure.
+  -Completing the first requirements: Not Started [] In Progress [] Finished [x]
     
-  -Making the first Concept:Not Started [x] In Progress [] Finished []
+  -Making the first Concept: Not Started [] In Progress [] Finished [x]
+  
+  -Maing the finished Programm: Not Started [] In Progress [x] Finished []
+    -Actuall working on: case2 & case3.
