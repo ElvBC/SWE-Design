@@ -6,7 +6,6 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner eing = new Scanner(System.in);
 		int players,MenuSelection;
-		int  wholeNumbers[]=new int [49];
 		int playersNumbers[][]=new int [1000][6]; //Max. 1000 Players
 		String playerFirstName[]= new String [50]; //Max 50. Chars
 		String playerLastName[]= new String [50]; //Max. 50 Chars
