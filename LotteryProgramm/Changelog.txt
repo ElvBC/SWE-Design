@@ -1,0 +1,12 @@
+
+1.11:
+cleaned the code a bit up, and uploaded the final for case1.
+
+1.10:
+Uploaded first try for Case1
+
+1.01:
+Changed some minor things with the skeletal structure.
+
+1.00:
+Made a skeletal structure of the Program
