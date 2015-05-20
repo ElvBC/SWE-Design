@@ -5,9 +5,9 @@ All files & Documentations etc. should be uploaded in this repository:
 
     ->LotterProgramm
 
-      ->Changelog.txt
+          ->Changelog.txt
   
-      ->Main.java
+          ->Main.java
   
     ->ProjectGoalsSh3.txt
 
