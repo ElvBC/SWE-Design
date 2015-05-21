@@ -62,6 +62,21 @@ public class Main {
 
 //Case3--------------------------------------------------------------------------------------------------------------
 			case 3:
+			System.out.print("Drawn numbers: ");
+			for (int i = 0; i < 6; i++) System.out.print(lotteryNumbers[i]+"-");
+			System.out.println("\n");
+			for (int i = 0; i < players; i++) {
+				System.out.print(playerFirstName[i]+" ");
+				System.out.print(playerLastName[i]+": ");
+				for (int k = 0; k < 6; k++) {
+				for (int a = 0; a <6; a++) {
+				if(playersNumbers[i][k]==lotteryNumbers[a])rights++;
+				}
+				System.out.print(playersNumbers[i][k]+"-");
+				}
+				System.out.print(" Right numbers: "+rights);
+				System.out.println("");
+			}
 			break;
 
 //Default------------------------------------------------------------------------------------------------------------
