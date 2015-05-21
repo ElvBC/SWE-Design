@@ -59,6 +59,23 @@ public class Main {
 			
 //Case2--------------------------------------------------------------------------------------------------------------
 			case 2:
+			for (int i = 0; i < 6; i++){
+			lotteryNumbers[i]=(int) ((Math.random()*49)+1);
+			//----------------------ERROR HANDLING----------------------START
+			for (int a = i-1; a >=0; a--) {
+				if((lotteryNumbers[i]==lotteryNumbers[a])){
+					i--;
+					break;
+				}//if
+			}//for2
+			//----------------------ERROR HANDLING----------------------END
+			}//for
+			Arrays.sort(lotteryNumbers); //Sort
+			for (int i = 0; i < 6; i++) {
+				System.out.println("Nr."+(i+1)+": "+lotteryNumbers[i]);
+			}//Ausgabe
+			System.out.println(""); //Newline
+			tmp=1;
 			break;
 
 //Case3--------------------------------------------------------------------------------------------------------------
