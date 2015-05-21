@@ -6,4 +6,4 @@ Main Goals for Project:
   -Making the first Concept: Not Started [] In Progress [] Finished [x]
       
   -Maing the finished Programm: Not Started [] In Progress [x] Finished []
-    -Actuall working on: case2 & case3.
+    -Actuall working on: case3.
