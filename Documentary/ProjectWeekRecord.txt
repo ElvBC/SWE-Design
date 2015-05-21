@@ -1,0 +1,14 @@
+Project week record:
+
+Week1: 17.05.2015-22.05.2015
+We prepared our machines for the Project.
+We made clear goals and requirements for this week.
+We developed the lottery program and fulfilled all our goals for this week:
+	-Wrote an use case.
+	-made a ruffly scheduling plan.
+	-Decided us for an process model and an organizational structure
+	
+Week2:
+
+Week3:
+

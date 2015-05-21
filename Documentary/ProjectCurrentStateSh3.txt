@@ -1,9 +1,8 @@
-Main Goals for Project:
+Main Goals for Project and the current state:
   -Complete Exercise 3: Not Started [] In Progress [] Finished [x]
     
   -Completing the first requirements: Not Started [] In Progress [] Finished [x]
     
   -Making the first Concept: Not Started [] In Progress [] Finished [x]
       
-  -Maing the finished Programm: Not Started [] In Progress [x] Finished []
-    -Actuall working on: case2 & case3.
+  -Making the finished Programm: Not Started [] In Progress [] Finished [x]
