@@ -97,6 +97,7 @@ public class Main {
 				}
 				System.out.print(" Right numbers: "+rights);
 				System.out.println("");
+				rights=0;
 			}
 			System.out.println("");
 			}else System.out.println("Please first press 2 to draw the numbers.");
