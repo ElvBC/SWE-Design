@@ -60,7 +60,13 @@ public class Main {
 //Case2--------------------------------------------------------------------------------------------------------------
 			case 2:
 			for (int i = 0; i < 6; i++){
-				lotteryNumbers[i]=(int) ((Math.random()*49)+1);
+			lotteryNumbers[i]=(int) ((Math.random()*49)+1);
+			for (int a = i-1; a >=0; a--) {
+				if((lotteryNumbers[i]==lotteryNumbers[a])){
+					i--;
+					break;
+				}//if
+			}//for2
 			}//for
 			Arrays.sort(lotteryNumbers); //Sort
 			for (int i = 0; i < 6; i++) {
