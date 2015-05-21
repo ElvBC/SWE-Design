@@ -4,12 +4,13 @@ Repository for the SWE-Design project.
 All files & Documentations etc. should be uploaded in this repository:
 
     ->LotterProgramm
-
           ->Changelog.txt
-  
           ->Main.java
-  
-    ->ProjectGoalsSh3.txt
+
+    ->Documentation
+          ->ProjectGoalsSh3.txt
+          ->Sheet3Upload.docx
+          ->Sheet3Upload.pdf
 
     ->README.md
 
