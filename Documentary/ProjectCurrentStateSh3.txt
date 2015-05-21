@@ -7,5 +7,4 @@ Main Goals for Project and the current state:
       
   -Making the finished Programm: Not Started [] In Progress [] Finished [x]
 
-  -Making the finished Programm: Not Started [] In Progress [] Finished [x]
 
