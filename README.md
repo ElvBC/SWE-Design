@@ -8,8 +8,12 @@ All files & Documentations etc. should be uploaded in this repository:
           ->Changelog.txt
   
           ->Main.java
+
+    ->Documentation
   
-    ->ProjectGoalsSh3.txt
+          ->ProjectGoalsSh3.txt
+          ->Sheet3Upload.docx
+          ->Sheet3Upload.pdf
 
     ->README.md
 
