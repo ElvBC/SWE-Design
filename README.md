@@ -10,14 +10,8 @@ All files & Documentations etc. should be uploaded in this repository:
           -->src
             ->Main.java
 
-<<<<<<< HEAD
     -->Documentation
           ->ProjectGoalsSh3.txt
-=======
-    ->Documentation
-          ->ProjectCurrentStateSh3.txt
-          ->ProjectWeekRecord.txt
->>>>>>> origin/master
           ->Sheet3Upload.docx
           ->Sheet3Upload.pdf
 
