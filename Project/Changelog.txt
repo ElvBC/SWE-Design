@@ -1,5 +1,11 @@
+1.31
+Fixed a little bug. - Should be the last version of the program.
+
+1.30
+Updated with the final for case3
+
 1.20
-Updated with the final for case2-
+Updated with the final for case2
 
 1.11:
 cleaned the code a bit up, and uploaded the final for case1.
