@@ -19,5 +19,5 @@ All files & Documentations etc. should be uploaded in this repository:
 
 
 
-Elvin Buljubasic & Sandep Gothra
+Elvin Buljubasic & Ali Selvi
 
