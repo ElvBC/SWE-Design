@@ -24,7 +24,6 @@ All files & Documentations etc. should be uploaded in this repository:
             ->Main.java
             
     -->ProjectFinal
-          ->Changelog.txt
           -->bin
             ->Lottery.class
             ->Output.class
