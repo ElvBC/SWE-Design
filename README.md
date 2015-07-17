@@ -22,7 +22,21 @@ All files & Documentations etc. should be uploaded in this repository:
             ->Main.class
           -->src
             ->Main.java
-
+            
+    -->ProjectFinal
+          ->Changelog.txt
+          -->bin
+            ->Lottery.class
+            ->Output.class
+            ->Player.class
+            ->RandomNumberGen.class
+            ->Ticket.class
+          -->src
+            ->Lottery.java
+            ->Output.java
+            ->Player.java
+            ->RandomNumberGen.java
+            ->Ticket.java
     ->README.md
 
 
